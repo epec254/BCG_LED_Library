@@ -18,7 +18,7 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-#include "Adafruit_LEDBackpack.h"
+#include "BCG_LED_Library.h"
 #include "Adafruit_GFX.h"
 
 static const uint8_t numbertable[] = { 
