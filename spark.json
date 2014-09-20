@@ -1,7 +1,7 @@
 {
-    "name": "Adafruit_LEDBackpack",
+    "name": "BCG_LED_Library",
     "version": "0.0.31",
-    "author": "beefbowl <dev020@gmail.com>",
+    "author": "eric peter <epeter@gmail.com>, forked from beefbowl <dev020@gmail.com>",
     "license": "MIT",
-    "description": "Forked from Adafruit's LED Backpack library, for SparkCore"
+    "description": "Forked from BeefBowl's Adafruit's LED Backpack library for SparkCore to fix a compile error"
 }
